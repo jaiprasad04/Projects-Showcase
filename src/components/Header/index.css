@@ -1,0 +1,16 @@
+.navbar {
+  background-color: #f1f5f9;
+  display: flex;
+  justify-content: center;
+}
+
+.responsive-navbar {
+  width: 90%;
+  max-width: 1140px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.website-logo {
+  width: 160px;
+}
